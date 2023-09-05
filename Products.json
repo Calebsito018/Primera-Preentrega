@@ -1,0 +1,202 @@
+[
+    {
+        "title": "Iphone 13 re Pro",
+        "description": "El último iPhone con tecnología avanzada.",
+        "price": 1099,
+        "code": "001",
+        "stock": 50,
+        "category": "smartphones",
+        "status": true,
+        "id": 1
+    },
+    {
+        "title": "Samsung Galaxy S21 Ultra",
+        "description": "Potente teléfono Android con una cámara excepcional.",
+        "price": 1199,
+        "code": "002",
+        "stock": 40,
+        "category": "smartphones",
+        "status": true,
+        "id": 2
+    },
+    {
+        "title": "Google Pixel 6",
+        "description": "Teléfono con IA y cámara mejorada para fotografía.",
+        "price": 799,
+        "code": "003",
+        "stock": 60,
+        "category": "smartphones",
+        "status": true,
+        "id": 3
+    },
+    {
+        "title": "OnePlus 9 Pro",
+        "description": "Rendimiento superior y carga rápida.",
+        "price": 899,
+        "code": "004",
+        "stock": 35,
+        "category": "smartphones",
+        "status": true,
+        "id": 4
+    },
+    {
+        "title": "Xiaomi Mi 11",
+        "description": "Teléfono con pantalla AMOLED y procesador Snapdragon.",
+        "price": 699,
+        "code": "005",
+        "stock": 25,
+        "category": "smartphones",
+        "status": true,
+        "id": 5
+    },
+    {
+        "title": "Sony Xperia 1 III",
+        "description": "Experiencia cinematográfica en un teléfono.",
+        "price": 1099,
+        "code": "006",
+        "stock": 30,
+        "category": "smartphones",
+        "status": true,
+        "id": 6
+    },
+    {
+        "title": "Huawei P50 Pro",
+        "description": "Innovadora tecnología de cámara Leica.",
+        "price": 999,
+        "code": "007",
+        "stock": 20,
+        "category": "smartphones",
+        "status": true,
+        "id": 7
+    },
+    {
+        "title": "Oppo Find X4",
+        "description": "Diseño elegante y características de alta gama.",
+        "price": 899,
+        "code": "008",
+        "stock": 45,
+        "category": "smartphones",
+        "status": true,
+        "id": 8
+    },
+    {
+        "title": "LG V70 ThinQ",
+        "description": "Teléfono con enfoque en audio y multimedia.",
+        "price": 799,
+        "code": "009",
+        "stock": 15,
+        "category": "smartphones",
+        "status": true,
+        "id": 9
+    },
+    {
+        "title": "Motorola Edge 20",
+        "description": "Rendimiento confiable y experiencia de Android.",
+        "price": 599,
+        "code": "010",
+        "stock": 55,
+        "category": "smartphones",
+        "status": true,
+        "id": 10
+    },
+    {
+        "title": "Realme GT 5G",
+        "description": "Potente rendimiento a un precio asequible.",
+        "price": 499,
+        "code": "011",
+        "stock": 50,
+        "category": "smartphones",
+        "status": true,
+        "id": 11
+    },
+    {
+        "title": "Vivo X70 Pro",
+        "description": "Fotografía innovadora y diseño atractivo.",
+        "price": 899,
+        "code": "012",
+        "stock": 30,
+        "category": "smartphones",
+        "status": true,
+        "id": 12
+    },
+    {
+        "title": "Nokia 8.4 5G",
+        "description": "Experiencia de Android puro con conectividad 5G.",
+        "price": 699,
+        "code": "013",
+        "stock": 40,
+        "category": "smartphones",
+        "status": true,
+        "id": 13
+    },
+    {
+        "title": "BlackBerry Key3",
+        "description": "Teclado físico icónico con seguridad mejorada.",
+        "price": 799,
+        "code": "014",
+        "stock": 25,
+        "category": "smartphones",
+        "status": true,
+        "id": 14
+    },
+    {
+        "title": "Asus ROG Phone 6",
+        "description": "Diseñado para jugadores con alto rendimiento.",
+        "price": 1099,
+        "code": "015",
+        "stock": 20,
+        "category": "smartphones",
+        "status": true,
+        "id": 15
+    },
+    {
+        "title": "Lenovo Legion Phone 3",
+        "description": "Experiencia de juego inmersiva en un teléfono.",
+        "price": 899,
+        "code": "016",
+        "stock": 30,
+        "category": "smartphones",
+        "status": true,
+        "id": 16
+    },
+    {
+        "title": "ZTE Axon 30",
+        "description": "Cámara bajo la pantalla y rendimiento sólido.",
+        "price": 699,
+        "code": "017",
+        "stock": 35,
+        "category": "smartphones",
+        "status": true,
+        "id": 17
+    },
+    {
+        "title": "HTC U22",
+        "description": "Un equilibrio entre rendimiento y precio.",
+        "price": 499,
+        "code": "018",
+        "stock": 40,
+        "category": "smartphones",
+        "status": true,
+        "id": 18
+    },
+    {
+        "title": "Poco X5",
+        "description": "Excelente relación calidad-precio.",
+        "price": 349,
+        "code": "019",
+        "stock": 60,
+        "category": "smartphones",
+        "status": true,
+        "id": 19
+    },
+    {
+        "title": "Energizer PowerMax",
+        "description": "Batería masiva para una duración excepcional.",
+        "price": 599,
+        "code": "020",
+        "stock": 15,
+        "category": "smartphones",
+        "status": true,
+        "id": 20
+    }
+]
